@@ -5,6 +5,8 @@ var t = 1.8;
 
 (f - c)/ t
 
+   // C= (F32) / 1.8;
+
 function FahrenheitConversion(f,c) {
     return c = (f - c)/ t;
 }
