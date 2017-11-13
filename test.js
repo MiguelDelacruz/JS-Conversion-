@@ -1,0 +1,12 @@
+
+var f = 20;
+var c = 32;
+var t = 1.8;
+
+(f - c)/ t
+
+function FahrenheitConversion(f,c) {
+    return c = (f - c)/ t;
+}
+var temp = FahrenheitConversion(f,c,t)
+console.log(temp);
